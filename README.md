@@ -25,9 +25,9 @@
 <p align="left">
 <a href="https://twitter.com/munawwarkhan058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munawwarkhan058" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/munawwar-khan-a28261218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/munawwar-khan-a28261218" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/munawwarkhan058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/munawwarkhan058" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/munawwarkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/munawwarkhan/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/munawwarb5yj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/munawwarb5yj/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/munawwarkhan058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="munawwarkhan058" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/munawwarkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="munawwarkhan" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/munawwarb5yj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="munawwarb5yj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
